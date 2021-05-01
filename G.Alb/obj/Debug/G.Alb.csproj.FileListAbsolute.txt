@@ -1,0 +1,17 @@
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\bin\Debug\G.Alb.exe.config
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\bin\Debug\G.Alb.exe
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\bin\Debug\G.Alb.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.Properties.Resources.resources
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.csproj.GenerateResource.Cache
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.exe
+c:\users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.pdb
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.Principal.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmCadastroCliente.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmCadastroFornecedor.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmCadastroFuncionario.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmClienteProjeto.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmCadastroTipoProjeto.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmAcompanhamentoProjeto.resources
+C:\Users\paulo\documents\visual studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.frmParcelasCliente.resources
+C:\Users\paulo\Documents\Visual Studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2013\Projects\G.Alb\G.Alb\obj\Debug\G.Alb.csproj.CoreCompileInputs.cache
